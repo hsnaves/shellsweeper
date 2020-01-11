@@ -1,0 +1,21 @@
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 120%;
+}
+
+fieldset {
+  margin-top: 30px;
+  border: 0px solid #BFBAB0;
+}
+
+/* Loading div */
+div#board {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
